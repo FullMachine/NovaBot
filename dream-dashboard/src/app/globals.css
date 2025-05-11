@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+.dark :root,
+.dark body {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: #181c23;
+  color: #fff;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+
+.card, .panel, .dashboard-card {
+  background: #232733;
+  border-radius: 1.25rem;
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.18);
+  color: #fff;
+}
+
+.section-title {
+  color: #ffd600;
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+}
+
+.highlight-yellow {
+  color: #ffd600;
+}
+.highlight-blue {
+  color: #1e90ff;
+}
+
+button, .btn {
+  border-radius: 0.75rem;
+  font-weight: 600;
+  transition: background 0.2s, color 0.2s;
+}
+
+input, select {
+  border-radius: 0.75rem;
+  background: #232733;
+  color: #fff;
+  border: 1px solid #333;
+  padding: 0.5rem 1rem;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: #232733;
+}
+::-webkit-scrollbar-thumb {
+  background: #181c23;
+  border-radius: 8px;
+}

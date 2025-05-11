@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Always do as much of the coding, setup, and troubleshooting as possible for the user. Only ask the user to do things that require manual action (like running a command or copying a file). Always explain every step in very simple, beginner-friendly language, as if the user has no coding experience at all.

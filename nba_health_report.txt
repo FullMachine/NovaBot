@@ -1,0 +1,244 @@
+
+=== NBA Data Health Check ===
+
+Season 2017-18: 667 player files found.
+Season 2000-01: 94 player files found.
+Season 2016-17: 625 player files found.
+Season 2005-06: 267 player files found.
+Season 2019-20: 529 player files found.
+Season 2002-03: 140 player files found.
+Season 2021-22: 1441 player files found.
+Season 2011-12: 567 player files found.
+Season 2009-10: 442 player files found.
+Season 2003-04: 176 player files found.
+Season 2018-19: 664 player files found.
+Season 2024-25: 246 player files found.
+Season 2014-15: 634 player files found.
+Season 2004-05: 224 player files found.
+Season 1999-00: 79 player files found.
+Season 2008-09: 388 player files found.
+Season 2023-24: 1508 player files found.
+Season 2013-14: 608 player files found.
+Season 2001-02: 121 player files found.
+Season 2012-13: 606 player files found.
+Season 2022-23: 1438 player files found.
+Season 1998-99: 65 player files found.
+Season 2015-16: 629 player files found.
+Season 2006-07: 310 player files found.
+Season 1997-98: 54 player files found.
+Season 2010-11: 489 player files found.
+Season 2020-21: 1380 player files found.
+Season 2007-08: 348 player files found.
+Season 1996-97: 51 player files found.
+
+=== Summary ===
+Missing files: 0
+Empty files: 0
+Broken files: 0
+
+=== Player Game Counts (sample) ===
+Season 2017-18:
+  203530_regular_season.json: 55 games
+  1627988_regular_season.json: 20 games
+  202329_regular_season.json: 69 games
+  201572_regular_season.json: 74 games
+  203546_playoffs.json: 9 games
+  ...and 662 more players.
+Season 2000-01:
+  1717_playoffs.json: 10 games
+  1863_regular_season.json: 10 games
+  1890_regular_season.json: 79 games
+  275_playoffs.json: 5 games
+  2038_playoffs.json: 1 games
+  ...and 89 more players.
+Season 2016-17:
+  203530_regular_season.json: 70 games
+  1626174_regular_season.json: 13 games
+  202329_regular_season.json: 61 games
+  201572_regular_season.json: 75 games
+  2563_playoffs.json: 10 games
+  ...and 620 more players.
+Season 2005-06:
+  1717_playoffs.json: 23 games
+  1863_regular_season.json: 60 games
+  1890_regular_season.json: 81 games
+  2563_playoffs.json: 4 games
+  2501_regular_season.json: 67 games
+  ...and 262 more players.
+Season 2019-20:
+  1629012_regular_season.json: 65 games
+  1626174_regular_season.json: 62 games
+  202329_regular_season.json: 18 games
+  201572_regular_season.json: 68 games
+  203994_playoffs.json: 5 games
+  ...and 524 more players.
+Season 2002-03:
+  1717_playoffs.json: 17 games
+  1863_regular_season.json: 68 games
+  1890_regular_season.json: 81 games
+  2501_regular_season.json: 67 games
+  2427_regular_season.json: 17 games
+  ...and 135 more players.
+Season 2021-22:
+  1630698_regular_season.json: 24 games
+  1629657_regular_season.json: 19 games
+  1629012_regular_season.json: 11 games
+  1626174_regular_season.json: 68 games
+  1626181_preseason.json: 3 games
+  ...and 1436 more players.
+Season 2011-12:
+  1717_playoffs.json: 4 games
+  1863_regular_season.json: 8 games
+  202329_regular_season.json: 66 games
+  201572_regular_season.json: 5 games
+  1890_regular_season.json: 63 games
+  ...and 562 more players.
+Season 2009-10:
+  1717_playoffs.json: 6 games
+  1863_regular_season.json: 67 games
+  201572_regular_season.json: 82 games
+  1890_regular_season.json: 75 games
+  2501_regular_season.json: 28 games
+  ...and 437 more players.
+Season 2003-04:
+  1717_playoffs.json: 5 games
+  1863_regular_season.json: 82 games
+  1890_regular_season.json: 79 games
+  2501_regular_season.json: 75 games
+  2550_regular_season.json: 76 games
+  ...and 171 more players.
+Season 2018-19:
+  1629012_regular_season.json: 82 games
+  1626174_regular_season.json: 21 games
+  202329_regular_season.json: 81 games
+  1628999_regular_season.json: 2 games
+  201572_regular_season.json: 81 games
+  ...and 659 more players.
+Season 2024-25:
+  1629012_regular_season.json: 63 games
+  201572_regular_season.json: 80 games
+  203999_regular_season.json: 70 games
+  1628386_regular_season.json: 82 games
+  1628973_regular_season.json: 65 games
+  ...and 241 more players.
+Season 2014-15:
+  203530_regular_season.json: 24 games
+  1717_playoffs.json: 5 games
+  203561_regular_season.json: 27 games
+  202329_regular_season.json: 74 games
+  201572_regular_season.json: 72 games
+  ...and 629 more players.
+Season 2004-05:
+  1717_playoffs.json: 13 games
+  1863_regular_season.json: 82 games
+  1890_regular_season.json: 81 games
+  2563_playoffs.json: 3 games
+  2501_regular_season.json: 79 games
+  ...and 219 more players.
+Season 1999-00:
+  1863_regular_season.json: 26 games
+  1890_regular_season.json: 51 games
+  275_playoffs.json: 16 games
+  1889_regular_season.json: 82 games
+  739_playoffs.json: 16 games
+  ...and 74 more players.
+Season 2008-09:
+  1717_playoffs.json: 10 games
+  201572_regular_season.json: 82 games
+  1890_regular_season.json: 69 games
+  2563_playoffs.json: 16 games
+  2501_regular_season.json: 79 games
+  ...and 383 more players.
+Season 2023-24:
+  1631105_regular_season.json: 61 games
+  1629626_playoffs.json: 3 games
+  1631217_preseason.json: 3 games
+  1629012_regular_season.json: 78 games
+  1626174_regular_season.json: 50 games
+  ...and 1503 more players.
+Season 2013-14:
+  1717_playoffs.json: 7 games
+  203561_regular_season.json: 51 games
+  202329_regular_season.json: 80 games
+  201572_regular_season.json: 17 games
+  1890_regular_season.json: 76 games
+  ...and 603 more players.
+Season 2001-02:
+  1717_playoffs.json: 8 games
+  1863_regular_season.json: 68 games
+  1890_regular_season.json: 81 games
+  1889_regular_season.json: 81 games
+  739_playoffs.json: 3 games
+  ...and 116 more players.
+Season 2012-13:
+  202329_regular_season.json: 76 games
+  201572_regular_season.json: 74 games
+  1890_regular_season.json: 67 games
+  2563_playoffs.json: 5 games
+  203382_playoffs.json: 4 games
+  ...and 601 more players.
+Season 2022-23:
+  1631105_regular_season.json: 67 games
+  1631217_preseason.json: 4 games
+  1629012_regular_season.json: 48 games
+  1626174_regular_season.json: 67 games
+  1626181_preseason.json: 2 games
+  ...and 1433 more players.
+Season 1998-99:
+  1863_regular_season.json: 22 games
+  275_playoffs.json: 20 games
+  739_playoffs.json: 13 games
+  965_regular_season.json: 50 games
+  1718_regular_season.json: 48 games
+  ...and 60 more players.
+Season 2015-16:
+  203530_regular_season.json: 59 games
+  1717_playoffs.json: 5 games
+  1626174_regular_season.json: 17 games
+  202329_regular_season.json: 82 games
+  201572_regular_season.json: 73 games
+  ...and 624 more players.
+Season 2006-07:
+  1717_playoffs.json: 6 games
+  1863_regular_season.json: 66 games
+  1890_regular_season.json: 80 games
+  2501_regular_season.json: 66 games
+  2550_regular_season.json: 80 games
+  ...and 305 more players.
+Season 1997-98:
+  275_playoffs.json: 10 games
+  739_playoffs.json: 4 games
+  965_regular_season.json: 82 games
+  739_regular_season.json: 77 games
+  165_regular_season.json: 47 games
+  ...and 49 more players.
+Season 2010-11:
+  1717_playoffs.json: 21 games
+  1863_regular_season.json: 57 games
+  202329_regular_season.json: 81 games
+  201572_regular_season.json: 82 games
+  1890_regular_season.json: 80 games
+  ...and 484 more players.
+Season 2020-21:
+  1629626_playoffs.json: 3 games
+  1630187_playoffs.json: 8 games
+  1629657_regular_season.json: 31 games
+  1629012_regular_season.json: 60 games
+  1626174_regular_season.json: 41 games
+  ...and 1375 more players.
+Season 2007-08:
+  1717_playoffs.json: 5 games
+  1863_regular_season.json: 36 games
+  1890_regular_season.json: 63 games
+  2501_regular_season.json: 81 games
+  2550_regular_season.json: 75 games
+  ...and 343 more players.
+Season 1996-97:
+  275_playoffs.json: 9 games
+  739_playoffs.json: 4 games
+  965_regular_season.json: 80 games
+  739_regular_season.json: 62 games
+  699_playoffs.json: 3 games
+  ...and 46 more players.
+
+Health check complete.

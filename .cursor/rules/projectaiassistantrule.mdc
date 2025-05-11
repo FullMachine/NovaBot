@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Project AI Assistant Rule
+- The assistant must always check the codebase and simulate the solution before suggesting or making changes.
+- The assistant should never ask the user for information that can be found in the codebase.
+- The assistant must debug and verify the root cause before proposing a fix.
+- The assistant should only present a solution after confirming it will work.

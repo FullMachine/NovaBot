@@ -1,0 +1,10 @@
+2025-05-01 13:22:49,463 - __main__ - INFO - Validation report saved to data/nba/validation_report.json
+2025-05-01 13:22:49,463 - __main__ - INFO - Total players: 44
+2025-05-01 13:22:49,463 - __main__ - INFO - Valid players: 0
+2025-05-01 13:22:49,463 - __main__ - INFO - Invalid players: 44
+2025-05-01 13:22:49,463 - __main__ - WARNING - Some players have invalid data. Check validation_report.json for details.
+2025-05-01 13:23:10,454 - __main__ - INFO - Validation report saved to data/nba/validation_report.json
+2025-05-01 13:23:10,454 - __main__ - INFO - Total players: 45
+2025-05-01 13:23:10,454 - __main__ - INFO - Valid players: 36
+2025-05-01 13:23:10,454 - __main__ - INFO - Invalid players: 9
+2025-05-01 13:23:10,454 - __main__ - WARNING - Some players have invalid data. Check validation_report.json for details.

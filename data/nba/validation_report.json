@@ -1,0 +1,268 @@
+{
+  "total_players": 45,
+  "valid_players": 36,
+  "invalid_players": 9,
+  "player_results": [
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_100435"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_100441"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_100210"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_201142_20250501_103056"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_100031"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_100318"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_100316"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_2544_20250501_103037"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_100029"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_100208"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_095905"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_100030"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_100345"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_095810"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_201142_20250501_102952"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_095943"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_201939_20250501_103213"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_095742"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_095741"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_101847"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_095942"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_095941"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_100348"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_095743"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_095808"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_101844"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_201142_20250501_103224"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_76001_20250501_105354"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_095809"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_100241"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_100242"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "validation_report"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_2544_20250501_102931"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_102110"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_095906"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_100342"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_100438"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_101841"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_102107"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_102104"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_100317"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_jamesle01_20250501_095904"
+    },
+    {
+      "valid": false,
+      "errors": [
+        "Missing section: info",
+        "Missing section: career_stats",
+        "Missing section: season_stats"
+      ],
+      "player_id": "player_2544_20250501_103202"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_curryst01_20250501_100209"
+    },
+    {
+      "valid": true,
+      "errors": [],
+      "player_id": "player_duranke01_20250501_100244"
+    }
+  ]
+}

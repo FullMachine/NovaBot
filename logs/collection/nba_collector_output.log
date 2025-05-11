@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/cynthiamatutelopez/NovaBotLocal/nova-proxy/scripts/collect_all_nba_data.py", line 13, in <module>
+    from app.services.nba_collector import NBACollector, generate_seasons
+  File "/Users/cynthiamatutelopez/NovaBotLocal/nova-proxy/app/services/nba_collector.py", line 12, in <module>
+    from tenacity import retry, stop_after_attempt, wait_exponential
+ModuleNotFoundError: No module named 'tenacity'
