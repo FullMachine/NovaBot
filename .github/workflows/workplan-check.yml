@@ -1,0 +1,22 @@
+name: Workplan Check
+
+on:
+  pull_request:
+    paths:
+      - '**.py'
+      - '**.js'
+      - '**.ts'
+      - '**.tsx'
+      - '**.md'
+
+jobs:
+  check-workplan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check for workplan in docs/Plans/
+        run: |
+          if ! ls docs/Plans/*.md 1> /dev/null 2>&1; then
+            echo "ERROR: No workplan file found in docs/Plans/. Please add a workplan before opening a PR."
+            exit 1
+          fi 
